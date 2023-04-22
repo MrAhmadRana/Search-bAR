@@ -1,0 +1,32 @@
+
+.search-bar {
+	width: 39%;
+	padding: 11px;
+	font-size: 17px;
+	border-radius: 32px;
+	border: 1px solid black;
+}
+
+.buttons-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.search-button {
+	padding: 5px 29px 8px 27px;
+	display: flex;
+	margin: 5px;
+	border-radius: 27px;
+	border: 2px solid;
+}
+.clear-button {
+	padding: 5px 29px 8px 27px;
+	display: flex;
+	margin: 5px;
+	border-radius: 27px;
+	border: 2px solid;
+}
+
+.clear-button {
+	background-color: rgb(226, 227, 228);
+}
